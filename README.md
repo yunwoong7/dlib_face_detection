@@ -143,4 +143,6 @@ plt_imshow("Output", image, figsize=(16,10))
 
 위에 결과를 확인 할 수 있듯이 옆모습이거나 얼굴이 가려진 경우에는 인식이 안된다는 걸 알 수 있습니다. 다음 글에는 dlib보다 좀 더 방법을 소개 하도록 하겠습니다.
 
-![img](https://blog.kakaocdn.net/dn/OAqUL/btrrU7SOVFx/YCLvmJz0tPkqScmejVhFuK/img.gif)
+<div align="center">
+  <img src="/asset/images/img.gif" width="50%">
+</div>
