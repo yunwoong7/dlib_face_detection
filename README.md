@@ -1,4 +1,13 @@
-# dlib face detection
+<h2 align="center">
+  dlib face detection
+</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-v3.10-blue.svg"/>
+  <img src="https://img.shields.io/badge/dlib-v19.23.0-blue.svg"/>
+  <img src="https://img.shields.io/badge/face_recognition-v1.3.0-blue.svg"/>
+</div>
+
 스마트폰의 카메라를 사용해 보셨다면 한번쯤은 얼굴 인식 기능을 경험해 보셨을 겁니다. 최근 카메라의 얼굴 인식 기능은 매우 중요한 기능이 되었습니다. 얼굴을 자동으로 인식하고 초점을 맞추거나 태그를 만들어 주기도 합니다.
 
 <div align="center">
